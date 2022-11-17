@@ -1,19 +1,28 @@
+# Resources
+
+https://drive.google.com/drive/folders/18tDFFmnSc--tfuz19pjyhVVnuKZEmXoK
+
+# Who we are
+
+- Angie: https://www.linkedin.com/in/alacey19/
+- Francisco: https://www.linkedin.com/in/rivera-francisco/
+
 # Fuckin' Developers
 
-## A fucking app to give web developers a place to find cool shit.
+- A fucking app to give web developers a place to find cool shit.
 
-# Educate your fucking self
+## Educate your fucking self
 
-## Links to tutorials from people trying to teach you shit
+- Links to tutorials from people trying to teach you shit
 
-# Find some fucking project
+## Find some fucking project
 
-## Links to fucking project ideas
+- Links to fucking project ideas
 
-# Jam the fuck out
+## Jam the fuck out
 
-## Links to playlists to get you to fucking work
+- Links to playlists to get you to fucking work
 
-# Get your ass inspired
+## Get your ass inspired
 
-## Inspirational fucking quotes
+- Inspirational fucking quotes
