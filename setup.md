@@ -1,6 +1,9 @@
 # Resources
 
-https://drive.google.com/drive/folders/18tDFFmnSc--tfuz19pjyhVVnuKZEmXoK
+- Google Docs:
+  https://drive.google.com/drive/folders/18tDFFmnSc--tfuz19pjyhVVnuKZEmXoK
+
+- Github Repo: https://github.com/F-Rivers/fnDevs
 
 # Who we are
 
