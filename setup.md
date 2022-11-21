@@ -5,6 +5,18 @@
 
 - Github Repo: https://github.com/F-Rivers/fnDevs
 
+- Git setup:
+  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+  https://docs.github.com/en/get-started/quickstart/set-up-git
+
+# Branch Coordination
+
+- Production: main
+- Documentation: readMe
+- Angie: angie
+- Francisco: frank
+
 # Who we are
 
 - Angie: https://www.linkedin.com/in/alacey19/
