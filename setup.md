@@ -1,3 +1,14 @@
+# Commands ran
+
+```
+<!-- update npm to current version -->
+sudo npm install -g npm@9.1.3
+
+<!-- create the app -->
+npx create-react-app fndevs
+
+```
+
 # Resources
 
 - Google Docs:
