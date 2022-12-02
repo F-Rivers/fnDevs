@@ -7,6 +7,9 @@ sudo npm install -g npm@9.1.3
 <!-- create the app -->
 npx create-react-app fndevs
 
+<!-- create production build -->
+npm run build
+
 ```
 
 # Resources
