@@ -1,3 +1,19 @@
+# Commands ran
+
+```
+<!-- update npm to current version -->
+sudo npm install -g npm@9.1.3
+
+<!-- create the app -->
+npx create-react-app fndevs
+
+<!-- create production build -->
+npm run build
+
+<!-- add testing -->
+npm install --save-dev @testing-library/react
+```
+
 # Resources
 
 - Google Docs:
@@ -9,6 +25,9 @@
   https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
   https://docs.github.com/en/get-started/quickstart/set-up-git
+
+- React Testing:
+  https://testing-library.com/docs/react-testing-library/example-intro
 
 # Branch Coordination
 
