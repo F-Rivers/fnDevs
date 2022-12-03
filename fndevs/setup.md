@@ -26,6 +26,9 @@ npm install --save-dev @testing-library/react
 
   https://docs.github.com/en/get-started/quickstart/set-up-git
 
+- React Testing:
+  https://testing-library.com/docs/react-testing-library/example-intro
+
 # Branch Coordination
 
 - Production: main

@@ -27,7 +27,24 @@ serve -s build
 
 - Read more about it here: https://www.npmjs.com/package/serve?activeTab=readme
 
-# Testing Library
+# Testing
+
+## Library
 
 - React Testing Library: solution for testing React components, provides utility
   functions on top of react-dom/test-utils
+
+## Failed tests
+
+```
+Cannot find module 'msw' from 'src/tests/mock.test.jsx'
+
+       6 | // import API mocking utilities from Mock Service Worker
+    >  7 | import {rest} from 'msw'
+```
+
+```
+Cannot find module 'axios' from 'src/tests/mock.fetch.jsx'
+
+2 | import axios from 'axios'
+```
