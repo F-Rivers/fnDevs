@@ -26,3 +26,8 @@ serve -s build
 ```
 
 - Read more about it here: https://www.npmjs.com/package/serve?activeTab=readme
+
+# Testing Library
+
+- React Testing Library: solution for testing React components, provides utility
+  functions on top of react-dom/test-utils
