@@ -10,6 +10,8 @@ npx create-react-app fndevs
 <!-- create production build -->
 npm run build
 
+<!-- add testing -->
+npm install --save-dev @testing-library/react
 ```
 
 # Resources
