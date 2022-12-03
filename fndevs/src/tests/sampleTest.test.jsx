@@ -5,7 +5,7 @@ import userEvent from '@testing-library/user-event'
 // add custom jest matchers from jest-dom
 import '@testing-library/jest-dom'
 // the component to test
-import Fetch from './fetch'
+import Fetch from './mock.fetch'
 
 test('loads and displays greeting', async () => {
   // Render a React element into the DOM
