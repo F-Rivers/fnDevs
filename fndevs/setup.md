@@ -18,6 +18,9 @@ npm i axios
 
 <!-- add msw -->
 npm i msw
+
+<!-- add fetch  -->
+npm i node-fetch
 ```
 
 # Resources
