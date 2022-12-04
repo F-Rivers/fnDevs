@@ -18,6 +18,9 @@ npm i axios
 
 <!-- add msw -->
 npm i msw
+
+<!-- add fetch  -->
+npm i node-fetch
 ```
 
 # Resources
@@ -34,6 +37,11 @@ npm i msw
 
 - React Testing:
   https://testing-library.com/docs/react-testing-library/example-intro
+
+- Nodes:
+  - https://www.npmjs.com/package/axios?activeTab=readme#features
+  - https://www.npmjs.com/package/msw?activeTab=readme
+  - https://www.npmjs.com/package/node-fetch#installation
 
 # Branch Coordination
 
