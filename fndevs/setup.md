@@ -12,6 +12,12 @@ npm run build
 
 <!-- add testing -->
 npm install --save-dev @testing-library/react
+
+<!-- add axios -->
+npm i axios
+
+<!-- add msw -->
+npm i msw
 ```
 
 # Resources
