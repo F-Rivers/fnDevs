@@ -1,21 +1,21 @@
 // A) Imports
 // Step 1: add the imports------------------------------
 // import dependencies
-import React from 'react'
+import React from 'react';
 
 // import API mocking utilities from Mock Service Worker
-import {rest} from 'msw'
-import {setupServer} from 'msw/node'
+import {rest} from 'msw';
+import {setupServer} from 'msw/node';
 
 // import react-testing methods
-import {render, fireEvent, waitFor, screen} from '@testing-library/react'
+import {render, fireEvent, waitFor, screen} from '@testing-library/react';
 
 // add custom jest matchers from jest-dom
-import '@testing-library/jest-dom'
+import '@testing-library/jest-dom';
 
 // the component to test
 // import Fetch from '../fetch'
-import Fetch from 'node-fetch'
+import Fetch from 'node-fetch';
 
 
 // Step 2: define the imports-------------------------- 
