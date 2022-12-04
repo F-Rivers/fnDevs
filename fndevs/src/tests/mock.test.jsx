@@ -12,8 +12,10 @@ import {render, fireEvent, waitFor, screen} from '@testing-library/react'
 
 // add custom jest matchers from jest-dom
 import '@testing-library/jest-dom'
+
 // the component to test
-import Fetch from '../fetch'
+// import Fetch from '../fetch'
+import Fetch from 'node-fetch'
 
 
 // Step 2: define the imports-------------------------- 
