@@ -43,8 +43,16 @@ Cannot find module 'msw' from 'src/tests/mock.test.jsx'
     >  7 | import {rest} from 'msw'
 ```
 
+---
+
 ```
 Cannot find module 'axios' from 'src/tests/mock.fetch.jsx'
 
 2 | import axios from 'axios'
+```
+
+installed with npm command new failed test message:
+
+```
+  SyntaxError: Cannot use import statement outside a module
 ```
