@@ -62,9 +62,5 @@ Cannot find module 'axios' from 'src/tests/mock.fetch.jsx'
   18 | import Fetch from 'node-fetch';
 ```
 
-
-TEST TEST TEST
-
 - this didn't work, will try again
   https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module
-
