@@ -21,6 +21,9 @@ npm i msw
 
 <!-- add fetch  -->
 npm i node-fetch
+
+<!-- prune inactive branches -->
+git remote prune origin
 ```
 
 # Resources
