@@ -64,5 +64,3 @@ Cannot find module 'axios' from 'src/tests/mock.fetch.jsx'
 
 - this didn't work, will try again
   https://stackoverflow.com/questions/58384179/syntaxerror-cannot-use-import-statement-outside-a-module
-
-<!-- vs does not recognize source control -->
